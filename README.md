@@ -1,2 +1,2 @@
 # Exerciser
-MATLAB based human skeleton tracking application framework
+MATLAB and Python based human skeleton tracking application framework
