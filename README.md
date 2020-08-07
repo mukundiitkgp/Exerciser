@@ -9,7 +9,9 @@ Instructions for Python Code (Real-time Skeleton Tracking):
 
 1. Make sure you have the openpose-master folder downloaded in your system (Clone it from here : https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-Also, you can download the folder 'openpose-master' from here (Google Drive Link: https://drive.google.com/drive/folders/12xc-wXMdHBcGAYDoa4XmUbC1GFzGdVpt?usp=sharing)
+OR
+
+Download the folder 'openpose-master' from here (Google Drive Link: https://drive.google.com/drive/folders/12xc-wXMdHBcGAYDoa4XmUbC1GFzGdVpt?usp=sharing)
 
 2. In this folder, you need to make sure that you have the .prototxt files and .caffemodels at the following 3 folder locations. (Already taken care in the folder, if you have downloaded it from the above given link)
 
