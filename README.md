@@ -15,7 +15,7 @@ OR
 
 Download the folder 'openpose-master' from here : https://drive.google.com/drive/folders/12xc-wXMdHBcGAYDoa4XmUbC1GFzGdVpt?usp=sharing
 
-2. In this folder, you need to make sure that you have the .prototxt files and .caffemodels at the following 3 folder locations. (Already taken care in the folder, if you have downloaded it from the above given Drive link)
+2. In this downloaded folder, you need to make sure that you have the .prototxt files and .caffemodels at the following 3 folder locations. (Already taken care in the folder, if you have downloaded it from the above given Drive link)
 
 Three folder locations:
 
