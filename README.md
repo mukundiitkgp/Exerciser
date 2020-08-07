@@ -13,7 +13,13 @@ Instructions for Python Code (Real-time Skeleton Tracking):
 Three folder locations:
 
   a. /..../openpose-master\models\pose\body_25 : in this, make sure you have "pose_deploy.prototxt"
+  
+  
+  
   b. /..../openpose-master\models\pose\coco    : in this, make sure you have "pose_deploy_linevec.prototxt" and "pose_iter_440000.caffemodel"
+  
+  
+  
   c. /..../openpose-master\models\pose\mpi     : in this, make sure you have "pose_deploy_linevec.prototxt", "pose_deploy_linevec_faster_4_stages.prototxt" and "pose_iter_160000.caffemodel"
   
   Changes to be made in the code:
