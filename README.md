@@ -8,7 +8,7 @@ https://drive.google.com/open?id=1I3Wwzf0bY1UdXJdK6dUjT7tcLGmQFgDE
 Instructions for Python Code (Real-time Skeleton Tracking):
 
 1. Make sure you have the openpose-master folder downloaded in your system. If not download it from here (Google Drive Link: https://drive.google.com/drive/folders/12xc-wXMdHBcGAYDoa4XmUbC1GFzGdVpt?usp=sharing)
-2. In this folder, you need to make sure that you have the .prototxt files and .caffemodels at the following 3 folder locations. (Already taken care in the folder, if you have downloaded it from the above mentioned Google Drive)
+2. In this folder, you need to make sure that you have the .prototxt files and .caffemodels at the following 3 folder locations. (Already taken care in the folder, if you have downloaded it from the above given link)
 
 Three folder locations:
 
@@ -25,6 +25,9 @@ Three folder locations:
   Changes to be made in the code:
   
   Line 8: protoFile = '............' : Here, you need to provide the location of .prototxt file of either coco or mpi (point b. or point c., as above)
+  
+  
   Line 9: weightsFile = '............' : Here, you need to provide the location of .caffemodel file of either coco or mpi corresponding to the one mentioned in Line 8 (point b. or point c., as above)
   
-  You're done with the changes, you can run it now :)
+  
+  You're done with the changes, you can run 'multi_openpose.py' now :)
